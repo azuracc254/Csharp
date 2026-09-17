@@ -1,0 +1,15 @@
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\bin\Debug\net10.0\Exercício07.exe
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\bin\Debug\net10.0\Exercício07.deps.json
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\bin\Debug\net10.0\Exercício07.runtimeconfig.json
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\bin\Debug\net10.0\Exercício07.dll
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\bin\Debug\net10.0\Exercício07.pdb
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\Exercício07.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\Exercício07.AssemblyInfoInputs.cache
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\Exercício07.AssemblyInfo.cs
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\Exercício07.csproj.CoreCompileInputs.cache
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\Exercício07.sourcelink.json
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\Exercício07.dll
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\refint\Exercício07.dll
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\Exercício07.pdb
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\Exercício07.genruntimeconfig.cache
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício07\obj\Debug\net10.0\ref\Exercício07.dll

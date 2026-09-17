@@ -1,0 +1,15 @@
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\bin\Debug\net10.0\Exercício06.exe
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\bin\Debug\net10.0\Exercício06.deps.json
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\bin\Debug\net10.0\Exercício06.runtimeconfig.json
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\bin\Debug\net10.0\Exercício06.dll
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\bin\Debug\net10.0\Exercício06.pdb
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\Exercício06.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\Exercício06.AssemblyInfoInputs.cache
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\Exercício06.AssemblyInfo.cs
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\Exercício06.csproj.CoreCompileInputs.cache
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\Exercício06.sourcelink.json
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\Exercício06.dll
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\refint\Exercício06.dll
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\Exercício06.pdb
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\Exercício06.genruntimeconfig.cache
+c:\Users\Tec Info Manhã\Desktop\c#\Exercício06\obj\Debug\net10.0\ref\Exercício06.dll
